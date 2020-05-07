@@ -10,7 +10,7 @@
   color: #f72210;
 }
 
-.text-grey {
+.text-gray {
   color: #a0a0a0;
 }
 
@@ -32,7 +32,7 @@
   right: 0;
   content: "";
   display: block;
-  width: 22px;
+  width: 66px;
   background-color: #f72210;
   border-left: 12px solid white;
   border-top: 13px solid #f72210;
@@ -58,4 +58,16 @@
   background-color: #c2d4d7;
   padding: 0.1em 0.5em;
   font-size: 0.8rem;
+}
+
+.navbar-logo {
+  width: 140px;
+}
+
+.vs-border-red {
+  border-top: 4px solid #f92859 !important;
+}
+
+.vs-border-blue {
+  border-top: 4px solid #1c87fb !important;
 }
