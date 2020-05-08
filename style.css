@@ -34,6 +34,10 @@
   fill: white;
 }
 
+.fill-red {
+  fill: #f72210;
+}
+
 .line-height-13 {
   line-height: 1.5;
 }
@@ -91,4 +95,23 @@
 
 .border-top-double {
   border-top-style: double;
+}
+
+.img-newsletter {
+  background-image: url("https://d.newsweek.com/en/full/1541302/starting5-homepage.png?w=397&h=265&q=90&f=742bce9a6f72dd8f19ba2e7fd5db06e5");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 354px;
+  width: 100%;
+  display: block;
+}
+
+.img-overlap {
+  top: 30px;
+  left: 30px;
+}
+
+.footer-logo {
+  width: 236px;
 }
