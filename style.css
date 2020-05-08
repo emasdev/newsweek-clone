@@ -6,12 +6,24 @@
   background-color: #f72210;
 }
 
+.bg-gray {
+  background-color: #666;
+}
+
+.bg-light-gray {
+  background-color: #f4f5f6;
+}
+
 .text-red {
   color: #f72210;
 }
 
+.text-black {
+  color: #000;
+}
+
 .text-gray {
-  color: #a0a0a0;
+  color: #666;
 }
 
 .top-nav {
@@ -70,4 +82,13 @@
 
 .vs-border-blue {
   border-top: 4px solid #1c87fb !important;
+}
+
+.newsletter {
+  max-width: 300px;
+  margin: auto;
+}
+
+.border-top-double {
+  border-top-style: double;
 }
