@@ -1,3 +1,7 @@
+body {
+  min-width: 500px;
+}
+
 #main-container {
   max-width: 1310px;
 }
@@ -42,13 +46,13 @@
   line-height: 1.5;
 }
 
-.bottom-nav::before {
+.before-container::before {
   position: absolute;
   top: 0;
   right: 0;
   content: "";
   display: block;
-  width: 66px;
+  width: 24px;
   background-color: #f72210;
   border-left: 12px solid white;
   border-top: 13px solid #f72210;
@@ -81,11 +85,11 @@
 }
 
 .vs-border-red {
-  border-top: 4px solid #f92859 !important;
+  border-top: 4px solid #f92859;
 }
 
 .vs-border-blue {
-  border-top: 4px solid #1c87fb !important;
+  border-top: 4px solid #1c87fb;
 }
 
 .newsletter {
