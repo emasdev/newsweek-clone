@@ -11,11 +11,11 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/emasdev/newsweek-clone/5911050d8ed3774387794055b7ca8cf46481391f/index.html)
 
 ## Authors
 
-👤 **Author1**
+👤 **Emanuel**
 
 - Github: [@githubhandle](https://github.com/emasdev)
 - Twitter: [@twitterhandle](https://twitter.com/elemass)
